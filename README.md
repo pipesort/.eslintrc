@@ -7,7 +7,9 @@ Probably you had a eslint already setup, but may be you didn't check for custom 
 This config is currently being used in my projects internally with my team.
 
 There is also corresponding screencasts [ Youtube series ](https://www.youtube.com/watch?v=ABuQbVFtFy4&list=PLg7jBfMc_r0swUIJu3o7gROy9LDoHLXaa) where the reasoning for each of these linting rules have been made.
-You could see the commit history.
+
+You could check the [commit history](https://github.com/pipesort/.eslintrc/commits/main) to see the corresponding video for each of the commits
+![git history with comments](github/gitlog.png)
 
 ### Contributing
 
