@@ -46,6 +46,16 @@ module.exports = {
       },
     ],
     'prettier/prettier': 'error',
+    'react/react-in-jsx-scope': 'off',
+    'react/require-default-props': 'off',
+    'react/function-component-definition': [
+      'error',
+      {
+        namedComponents: 'arrow-function',
+        unnamedComponents: 'arrow-function',
+      },
+    ],
+    'react/forbid-dom-props': ['error', { forbid: ['style'] }],
     'unicorn/no-array-for-each': 'off',
     'unicorn/no-array-reduce': 'off',
     'unicorn/prevent-abbreviations': 'off',
